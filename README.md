@@ -127,11 +127,9 @@ Administrator entering the workstation name to retrieve its current NetBird VPN 
 
 ## 3. Environment Selection
 
-**Caption**
-
 Prompt requesting the company environment, allowing the administrator to select either the Emerald Engineering or Copperline Electric NetBird environment.
 
-*(Insert Screenshot Here)*
+<img width="861" height="461" alt="image" src="https://github.com/user-attachments/assets/a1ae4535-57b4-48a3-a42b-5555f363f3cc" />
 
 ---
 

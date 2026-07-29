@@ -157,43 +157,11 @@ Error handling when a computer name cannot be located within the selected NetBir
 
 ---
 
-## 7. Incorrect Environment Selection
-
-**Caption**
-
-Application response when a valid computer name is searched in the wrong NetBird environment.
-
-*(Insert Screenshot Here)*
-
----
-
-## 8. Application Completion
-
-**Caption**
+## 7. Application Completion
 
 Final screen displaying the lookup results and prompting the administrator to press any key to exit the application.
 
-*(Insert Screenshot Here)*
-
----
-
-## 9. Source Code Overview (Optional)
-
-**Caption**
-
-Overview of the C# project in JetBrains Rider, illustrating the application's structure and organization.
-
-*(Insert Screenshot Here)*
-
----
-
-## 10. API Configuration (Optional)
-
-**Caption**
-
-Example of the application's configuration (with sensitive values redacted), demonstrating support for multiple NetBird environments.
-
-*(Insert Screenshot Here)*
+<img width="1717" height="925" alt="image" src="https://github.com/user-attachments/assets/63c7eb75-d6a5-4ae4-98b4-964798c0f98f" />
 
 ---
 

@@ -135,21 +135,17 @@ Prompt requesting the company environment, allowing the administrator to select 
 
 ## 4. Successful Connected Status
 
-**Caption**
-
 Successful lookup showing the selected NetBird environment, machine name, and a **Connected** status displayed in green.
 
-*(Insert Screenshot Here)*
+<img width="859" height="463" alt="image" src="https://github.com/user-attachments/assets/98bba16c-9cbd-436d-b3c0-5978c69cde81" />
 
 ---
 
 ## 5. Successful Disconnected Status
 
-**Caption**
-
 Successful lookup showing the machine is currently **Disconnected**, highlighted in red for immediate visibility.
 
-*(Insert Screenshot Here)*
+<img width="862" height="464" alt="image" src="https://github.com/user-attachments/assets/1b9b83a7-0309-47cb-8bc6-319571ef724b" />
 
 ---
 

@@ -111,21 +111,17 @@ The following screenshots illustrate the application's workflow and demonstrate 
 
 ## 1. Application Startup
 
-**Caption**
-
 The application launches and prompts the administrator to enter the target computer name.
 
-*(Insert Screenshot Here)*
+<img width="860" height="460" alt="image" src="https://github.com/user-attachments/assets/49385e17-0805-4653-9518-4c3eb48bb317" />
 
 ---
 
 ## 2. Computer Name Entry
 
-**Caption**
-
 Administrator entering the workstation name to retrieve its current NetBird VPN connection status.
 
-*(Insert Screenshot Here)*
+<img width="1768" height="698" alt="image" src="https://github.com/user-attachments/assets/04c2c261-59d3-46a6-92c9-b3aff820aca5" />
 
 ---
 

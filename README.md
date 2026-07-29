@@ -151,11 +151,9 @@ Successful lookup showing the machine is currently **Disconnected**, highlighted
 
 ## 6. Invalid Computer Name
 
-**Caption**
-
 Error handling when a computer name cannot be located within the selected NetBird environment.
 
-*(Insert Screenshot Here)*
+<img width="863" height="464" alt="image" src="https://github.com/user-attachments/assets/36e0f39c-09c2-4158-86ca-d61acc7fe69c" />
 
 ---
 
